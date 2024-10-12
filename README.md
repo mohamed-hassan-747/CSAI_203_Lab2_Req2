@@ -23,9 +23,9 @@
    pip install Flask
    ```
 
-   2. **Run the app**<br>
-      using this command `python main.py`
+2. **Run the app**<br>
+   using this command `python main.py`
 
-   3. **Access the app**<br>
-      The app should now be running on http://127.0.0.1:5000. Open this URL in your web browser to access the application.
+3. **Access the app**<br>
+   The app should now be running on http://127.0.0.1:5000. Open this URL in your web browser to access the application.
    
