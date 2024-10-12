@@ -11,7 +11,6 @@ def submit():
     name = request.form.get('name')
     age = request.form.get('age')
     email = request.form.get('email')
-    print(name)
     return render_template('submit.html')
     
 if __name__ == '__main__':
